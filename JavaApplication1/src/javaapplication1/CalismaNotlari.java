@@ -12,7 +12,7 @@ import java.util.Scanner; //kullanicidan girdi almak için gerekli olan sınıf 
  *
  * @author TugceK
  */
-public class JavaApplication1 {
+public class CalismaNotlari {
 
     /**
      * @param args the command line arguments
