@@ -1,19 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-
-
-
 package javaapplication1;
 
-import java.util.Scanner; //kullanicidan girdi almak için gerekli olan sınıf kütüphanesi
+//import java.util.Scanner; //kullanicidan girdi almak için gerekli olan sınıf kütüphanesi
+
 /**
  *
  * @author TugceK
  */
 public class CalismaNotlari {
-
     /**
      * @param args the command line arguments
      */
