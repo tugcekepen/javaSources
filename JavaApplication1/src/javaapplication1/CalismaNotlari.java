@@ -1,6 +1,6 @@
 package javaapplication1;
 
-//import java.util.Scanner; //kullanicidan girdi almak için gerekli olan sınıf kütüphanesi
+//import java.util.Scanner; //kullanicidan girdi almak için gerekli olan kütüphane
 
 /**
  *
@@ -16,7 +16,14 @@ public class CalismaNotlari {
         // System.out.print("Hello world");
         
         /*
-        byte b = 0; 
+         byte -> 8 bit
+         short -> 16 bit
+         int -> 32 bit
+         long -> 64 bit
+        */
+        
+        /*
+        byte b = 0;
         int a = b++; 
         System.out.println(a); // 0
         System.out.println(b); // 1
@@ -33,9 +40,6 @@ public class CalismaNotlari {
         */
         
         //double türündeki veri virgüllü girilmeli.
-        
-        
-        
         
         
         
