@@ -41,7 +41,7 @@ public class CalismaNotlari {
         
         //double türündeki veri virgüllü girilmeli.
         
-        
+        //Stringler için eşitlik durumu .equals("") metodu ile kontrol edilir
         
         
     }
