@@ -21,7 +21,7 @@ public class KDVTutariHesap {
         
         System.out.println("KDV'siz tutar: "+ para);
         System.out.println("KDV'li tutar: "+ kdvliTutar);
-        System.out.println("KDV tutarı: "+ KDV_TUTARI);
+        System.out.println("KDV tutarı: "+ para*KDV_TUTARI);
         
     }
 }
