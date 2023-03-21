@@ -20,6 +20,7 @@ https://app.patika.dev/tugcekepen
 * SinifGecme.java
 * Siralama.java
 * Taksimetre.java
+* TekSayilarinToplami.java
 * UcakBileti.java
 * Ucgen.java
 * VKI.java
