@@ -43,7 +43,22 @@ public class CalismaNotlari {
         
         //Stringler için eşitlik durumu .equals("") metodu ile kontrol edilir
         
-        
+        /*
+        for (int i = 1; i <= 2; ++i) {
+            for (int j = 1; j < 4; ++j) {
+                if (i == 1) 
+                    continue;  //Java'da "continue" deyimi , döngü içinde bir koşul oluştuğunda o döngüyü tamamlamadan bir sonraki kademeye geçmeye yarar.
+                System.out.print(i + j);
+            }
+        }    // ----> 345
+        */
+        /*
+        for (int k = 0; k < 9; k++) {
+            System.out.print("*");   //yıldızın if kosulundan önce olmasına dikkat! yani 4 tane yıldız çıktısı verir.
+            if (k == 3)              
+                break;               
+        }
+        */
     }
     
 }

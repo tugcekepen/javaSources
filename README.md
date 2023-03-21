@@ -6,9 +6,11 @@ www.patika.dev
 Patika Profilim
 https://app.patika.dev/tugcekepen
 
+* ArtikYil.java
 * BasitHesapMakinesi.java
-* Burclar.java
+* Burclar.javasss
 * CalismaNotlari.java
+* CiftSayiBulanPrg.java
 * Daire.java
 * DersOrtHesap.java
 * EtkinlikOnerisi.java
@@ -21,3 +23,4 @@ https://app.patika.dev/tugcekepen
 * UcakBileti.java
 * Ucgen.java
 * VKI.java
+* Zodyak.java
