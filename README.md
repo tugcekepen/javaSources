@@ -1,12 +1,12 @@
 # javaSources
 
-Patika
-www.patika.dev
+[Patika](www.patika.dev)
 
-Patika Profilim
-https://app.patika.dev/tugcekepen
+[Patika Profilim](https://app.patika.dev/tugcekepen)
 
+* Armstrong.java
 * ArtikYil.java
+* BasamakSayilariToplami.java
 * BasitHesapMakinesi.java
 * Burclar.java
 * CalismaNotlari.java
