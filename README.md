@@ -25,5 +25,6 @@ https://app.patika.dev/tugcekepen
 * TekSayilarinToplami.java
 * UcakBileti.java
 * Ucgen.java
+* UsluSayi.java
 * VKI.java
 * Zodyak.java
