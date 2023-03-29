@@ -8,7 +8,7 @@ https://app.patika.dev/tugcekepen
 
 * ArtikYil.java
 * BasitHesapMakinesi.java
-* Burclar.javasss
+* Burclar.java
 * CalismaNotlari.java
 * CiftSayiBulanPrg.java
 * Daire.java
@@ -16,6 +16,7 @@ https://app.patika.dev/tugcekepen
 * EtkinlikOnerisi.java
 * KDVTutariHesap.java
 * KullaniciGirisi.java
+* KuvvetHesaplama.java
 * ManavKasa.java
 * SinifGecme.java
 * Siralama.java
