@@ -15,6 +15,7 @@ https://app.patika.dev/tugcekepen
 * DersOrtHesap.java
 * EtkinlikOnerisi.java
 * KDVTutariHesap.java
+* Kombinasyon.java
 * KullaniciGirisi.java
 * KuvvetHesaplama.java
 * ManavKasa.java
