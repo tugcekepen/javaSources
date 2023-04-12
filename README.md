@@ -27,6 +27,7 @@
 * ManavKasa.java
 * MukemmelSayi.java (BTK)
 * NSayi_MinMaxBulma.java
+* PalindromSayi.java
 * SinifGecme.java
 * Siralama.java
 * Taksimetre.java
