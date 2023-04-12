@@ -12,28 +12,29 @@ public class MukemmelSayi {
         Scanner input = new Scanner(System.in);
         System.out.print("Sayı girin: ");
         int sayi = input.nextInt();
-        if(sayi>0){
-            LinkedList<Integer> bolenler = new LinkedList<Integer>();
-            for (int i = 1; i < sayi; i++) {
-                if (sayi%i==0){
-                    bolenler.add(i);
+        while(sayi!=0){
+            if(sayi>0){
+                LinkedList<Integer> bolenler = new LinkedList<Integer>();
+                for (int i = 1; i < sayi; i++) {
+                    if (sayi%i==0){
+                        bolenler.add(i);
+                    }
+                }
+                int toplam = 0;
+                for (Integer b : bolenler) {
+                    toplam += b;
+                }
+
+                if (toplam == sayi){
+                    System.out.println(sayi + " mükemmel sayıdır.");
+                }else{
+                    System.out.println(sayi + " mükemmel sayı değildir.");
                 }
             }
-
-            int toplam = 0;
-            for (Integer b : bolenler) {
-                toplam += b;
-            }
-
-            if (toplam == sayi){
-                System.out.println(sayi + " mükemmel sayıdır.");
-            }else{
-                System.out.println(sayi + " mükemmel sayı değildir.");
-            }
+            System.out.print("Sayı girin: ");
+            sayi = input.nextInt();
         }
-        else{
-            System.out.println("0 veya daha küçük bir sayı girmeyiniz.");
-        }
+        
         
         
     }
