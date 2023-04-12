@@ -19,6 +19,7 @@
 * EbobEkok.java
 * EtkinlikOnerisi.java
 * Fibonacci.java
+* GelismisHesapMakinesi.java
 * HarmonikSayi.java
 * KDVTutariHesap.java
 * Kombinasyon.java
