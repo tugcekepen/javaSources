@@ -4,6 +4,7 @@
 
 [Patika Profilim](https://app.patika.dev/tugcekepen)
 
+* ArkadasSayilar.java (BTK)
 * Armstrong.java
 * ArtikYil.java
 * BasamakSayilariToplami.java
@@ -20,6 +21,7 @@
 * KullaniciGirisi.java
 * KuvvetHesaplama.java
 * ManavKasa.java
+* MukemmelSayi.java (BTK)
 * SinifGecme.java
 * Siralama.java
 * Taksimetre.java
@@ -28,4 +30,5 @@
 * Ucgen.java
 * UsluSayi.java
 * VKI.java
+* Yildizlar.java
 * Zodyak.java
