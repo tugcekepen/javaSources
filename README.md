@@ -29,6 +29,7 @@
 * Siralama.java
 * Taksimetre.java
 * TekSayilarinToplami.java
+* TersUcgen.java
 * UcakBileti.java
 * Ucgen.java
 * UsluSayi.java
