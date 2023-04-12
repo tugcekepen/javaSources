@@ -4,6 +4,7 @@
 
 [Patika Profilim](https://app.patika.dev/tugcekepen)
 
+* ATMProjesi.java
 * ArkadasSayilar.java (BTK)
 * Armstrong.java
 * ArtikYil.java
