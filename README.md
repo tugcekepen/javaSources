@@ -24,6 +24,7 @@
 * KuvvetHesaplama.java
 * ManavKasa.java
 * MukemmelSayi.java (BTK)
+* NSayi_MinMaxBulma.java
 * SinifGecme.java
 * Siralama.java
 * Taksimetre.java
