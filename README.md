@@ -15,6 +15,7 @@
 * CiftSayiBulanPrg.java
 * Daire.java
 * DersOrtHesap.java
+* EbobEkok.java
 * EtkinlikOnerisi.java
 * HarmonikSayi.java
 * KDVTutariHesap.java
