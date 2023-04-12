@@ -18,6 +18,7 @@
 * DersOrtHesap.java
 * EbobEkok.java
 * EtkinlikOnerisi.java
+* Fibonacci.java
 * HarmonikSayi.java
 * KDVTutariHesap.java
 * Kombinasyon.java
