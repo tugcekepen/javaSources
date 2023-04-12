@@ -8,6 +8,7 @@
 * ArkadasSayilar.java (BTK)
 * Armstrong.java
 * ArtikYil.java
+* AsalSayi.java
 * BasamakSayilariToplami.java
 * BasitHesapMakinesi.java
 * Burclar.java
