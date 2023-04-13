@@ -30,6 +30,7 @@
 * NSayi_MinMaxBulma.java
 * PalindromSayi.java
 * RecursiveFibonacci.java
+* RecursiveUsluSayi.java
 * SinifGecme.java
 * Siralama.java
 * Taksimetre.java
