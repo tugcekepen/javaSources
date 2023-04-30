@@ -36,6 +36,7 @@
 * Taksimetre.java
 * TekSayilarinToplami.java
 * TersUcgen.java
+* TukceKarakterleriDuzeltici.java
 * UcakBileti.java
 * Ucgen.java
 * UsluSayi.java
